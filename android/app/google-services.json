@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "954687356209",
+    "project_id": "tbqa-cloud-c11ca",
+    "storage_bucket": "tbqa-cloud-c11ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954687356209:android:2d3df52ba8507c36890410",
+        "android_client_info": {
+          "package_name": "org.thingsboard.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3nB4y-BsniTMhyfgYnGWtmSm0x9UpdF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954687356209:android:5ac6fdc3ba499bef890410",
+        "android_client_info": {
+          "package_name": "org.thingsboard.pe.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3nB4y-BsniTMhyfgYnGWtmSm0x9UpdF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -11,7 +11,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  thingsboard_pe_client: 1.0.9
+  thingsboard_pe_client:
+    git:
+      url: https://github.com/vvlladd28/dart_thingsboard_pe_client.git
+      ref: improvement/push-notification
   intl: ^0.18.1
   flutter_secure_storage: ^9.0.0
   flutter_speed_dial: ^7.0.0

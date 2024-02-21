@@ -949,10 +949,11 @@ packages:
   thingsboard_pe_client:
     dependency: "direct main"
     description:
-      name: thingsboard_pe_client
-      sha256: "46bd97893502785f63885d12957dd5fd0fa9400248e7d0a5f89948a8334dba35"
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: "improvement/push-notification"
+      resolved-ref: "4c8144b9a24ec521037499848f53c2f23021683c"
+      url: "https://github.com/vvlladd28/dart_thingsboard_pe_client.git"
+    source: git
     version: "1.0.9"
   timezone:
     dependency: transitive
